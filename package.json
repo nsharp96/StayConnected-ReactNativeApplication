@@ -9,13 +9,27 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/datetimepicker": "6.5.2",
+    "@react-navigation/bottom-tabs": "^6.5.4",
+    "@react-navigation/native": "^6.1.2",
+    "@react-navigation/native-stack": "^6.9.8",
+    "eventemitter3": "^5.0.0",
     "expo": "~47.0.12",
+    "expo-image-manipulator": "~11.0.0",
+    "expo-image-picker": "~14.0.2",
+    "expo-linear-gradient": "~12.0.1",
     "expo-status-bar": "~1.4.2",
+    "firebase": "^9.16.0",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-modal-datetime-picker": "^14.0.1",
+    "react-native-uuid": "^2.0.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "webdriverio": "^8.8.4"
   },
   "private": true
 }
